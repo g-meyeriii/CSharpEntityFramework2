@@ -13,7 +13,7 @@ namespace CSharpEntityFramework2 {
         }
 
         static void AddCustomer(AppDbContext context) {
-            var cust = new Customer {
+            var cust = new Customer { 
                 Id
             }
         }
